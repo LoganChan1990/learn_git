@@ -1,1 +1,3 @@
-license file is builded in 2021.01.24
+1、license file is builded in 2021.01.24
+
+2、you need to learn how to push repo
